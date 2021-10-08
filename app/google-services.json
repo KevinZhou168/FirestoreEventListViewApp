@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475256243201",
+    "project_id": "firestoreeventlistviewap-de001",
+    "storage_bucket": "firestoreeventlistviewap-de001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475256243201:android:235d09acb8378121ceac00",
+        "android_client_info": {
+          "package_name": "com.example.eventlistviewapp_firebase_master2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475256243201-8000f15k6i9rq9mjtek0o29bac2m1f5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcde-kEiuxTOCiFmcccTgiqmCrR99qk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475256243201-8000f15k6i9rq9mjtek0o29bac2m1f5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
